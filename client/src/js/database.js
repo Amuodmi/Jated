@@ -39,7 +39,7 @@ console.log('PUT success to the db');
 
 // TODO: Add logic for a method that gets all the content from the database
 //
-export const getDb = async () => 
+export const getDb = async () => {
 console.log('GET all from the database');
 
 //creates a connection to the IndexedDB database and the version we want to use:
@@ -59,7 +59,8 @@ const result = await request;
 console.log('result.value', result);
 return result;
 
+}
 
-console.error('getDb not implemented');
+
 
 initdb();
