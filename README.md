@@ -27,7 +27,7 @@ Follow the link below to the Jated text editor.  Once the page has loaded, at th
 ## Links
 
 GitHub Repo: https://github.com/Amuodmi/Jated
-Deployed:
+Deployed: https://pure-everglades-12122.herokuapp.com/
 
 ### Licenses
 [![License](https://img.shields.io/badge/License-Express-orange.svg)](https://opensource.org/licenses/Express)
